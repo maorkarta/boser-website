@@ -1,7 +1,7 @@
 ﻿body {
     direction: rtl;
     font-family: Tahoma;
-  
+    margin: 0 auto;
 }
 header {
     display: inline-block;

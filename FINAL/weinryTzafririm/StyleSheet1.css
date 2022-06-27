@@ -2,7 +2,7 @@
     direction: rtl;
     background-color: white;
     font-family: Tahoma;
-  
+    margin: 0 auto;
 }
 
 header {
@@ -96,7 +96,7 @@ header {
     box-sizing: border-box;
 }
 #bread {
-    padding-top: 40px;
+    padding-top: 50px;
     
     
 }
